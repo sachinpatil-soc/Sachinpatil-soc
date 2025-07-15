@@ -6,7 +6,7 @@
 
 💻 My background in **full-stack web development** and **business operations** allows me to bring a well-rounded, technical-meets-practical mindset to cybersecurity challenges.
 
-🎯 Passionate about continuous learning through **CTF competitions**, **SOC Analyst labs**, and hands-on projects.
+## 🎯 Passionate about continuous learning through **CTF competitions**, **SOC Analyst labs**, and hands-on projects.
 
 ### 🚀 Notable Projects
 - **Azure Honeypot Deployment & SIEM Integration** (Microsoft Sentinel)
@@ -15,28 +15,32 @@
 
 # 🚀 Popular GitHub Projects
 
-| Project Name                            | Description                                                              |
-|----------------------------------------|--------------------------------------------------------------------------|
-| Splunk for Log Analysis <a href https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025/blob/main/🚀Day%2310%3AInstall%20and%20Configure%20Splunk%20.md </a>               | A comprehensive lab for mastering SIEM and log analysis.                 |
-| Active Directory Monitoring Projects   | Monitoring Active Directory events and security alerts.                  |
-| Ethical Hacking Projects for Beginners | Hands-on projects for ethical hacking and penetration testing.           |
-| Windows Forensics Projects for Beginners | Practical exercises on Windows forensics and analysis.                  |
-
-
-
-
-
+| Project Name                                                                                                                        | Description                                                              |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Splunk for Log Analysis</a>                    | A comprehensive lab for mastering SIEM and log analysis.                 |
+|<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Wireshark analyzing network concepts</a>       | capturing and analyzing network traffic, identifying common protocols, and understanding basic network concepts. |
+|<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Windows Security Logs and Linux Auth Log</a>   |  analysing these logs for security-related events|
+|<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Ethical Hacking Projects for Beginners</a>     | Hands-on projects for ethical hacking and penetration testing.  |
+|<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">30 Days SOC Challenge</a>                      | This repository documents my progress through a 30-day hands-on challenge, designed to build and showcase essential SOC Analyst skills for job readiness.
 
 
 
 
 ### 🛠️ Skills & Tools
-- 🐧 Linux | 📡 Wireshark | 🛠️ Nmap | 🔍 Burp Suite | 🎯 Metasploit  
-- 🔐 Log Analysis | 📊 SIEM Tools ( Splunk, Wazuh and Microsoft Sentinel)  | 👨‍💻 Threat Hunting | 🚨 Incident Response
+
+- 🐧 Linux |
+- 📡 Wireshark |
+- 🛠️ Nmap |
+- 🔍 Burp Suite |
+- 🎯 Metasploit  
+- 🔐 Log Analysis |
+-  📊 SIEM Tools ( Splunk, Wazuh and Microsoft Sentinel)  |
+-  👨‍💻 Threat Hunting |
+-  🚨 Incident Response
 
 ---
 
-📩 Open to **entry-level SOC Analyst**, **internship**, or **traineeship** roles.  
+# 📩 Open to **entry-level SOC Analyst**, **internship**, or **traineeship** roles.  
 
 ### -> ⚡ Let’s connect and secure the digital world together!  ⚡ ->
 
