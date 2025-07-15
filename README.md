@@ -15,6 +15,13 @@
 
 # 🚀 Popular GitHub Projects
 
+| Project Name                            | Description                                                              |
+|----------------------------------------|--------------------------------------------------------------------------|
+| Splunk for Log Analysis <a href https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025/blob/main/🚀Day%2310%3AInstall%20and%20Configure%20Splunk%20.md </a>               | A comprehensive lab for mastering SIEM and log analysis.                 |
+| Active Directory Monitoring Projects   | Monitoring Active Directory events and security alerts.                  |
+| Ethical Hacking Projects for Beginners | Hands-on projects for ethical hacking and penetration testing.           |
+| Windows Forensics Projects for Beginners | Practical exercises on Windows forensics and analysis.                  |
+
 
 
 
