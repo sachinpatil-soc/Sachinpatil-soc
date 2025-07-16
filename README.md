@@ -17,7 +17,7 @@
 |<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Windows Security Logs and Linux Auth Log</a>   |  analysing these logs for security-related events|
 |<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Ethical Hacking Projects for Beginners</a>     | Hands-on projects for ethical hacking and penetration testing.  |
 |<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">30 Days SOC Challenge</a>                      | This repository documents my progress through a 30-day hands-on challenge, designed to build and showcase essential SOC Analyst skills for job readiness.|
-|<a href="https://github.com/sachinpatil-soc/">Microsoft Sentinel Lab </a>                                                     | Azure Honeypot Deployment & SIEM Integration for Threat Intelligence (Microsoft Sentinel )
+|<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-Lab">Microsoft Sentinel Lab </a>                                | Azure Honeypot Deployment & SIEM Integration for Threat Intelligence (Microsoft Sentinel ).|
 
 
 ### 🛠️ Skills & Tools
