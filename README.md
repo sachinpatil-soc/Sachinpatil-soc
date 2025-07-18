@@ -12,7 +12,7 @@
 
 | Project Name                                                                                                                        | Description                                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Splunk for Log Analysis</a>                    | A comprehensive lab for mastering SIEM and log analysis.                 |
+|<a href="https://github.com/sachinpatil-soc/Splunk-for-Log-Analysis">Splunk for Log Analysis</a>                    | A comprehensive lab for mastering SIEM and log analysis.                 |
 |<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Wireshark analyzing network concepts</a>       | capturing and analyzing network traffic, identifying common protocols, and understanding basic network concepts. |
 |<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">Windows Security Logs and Linux Auth Log</a>   |  analysing these logs for security-related events|
 |<a href="https://github.com/sachinpatil-soc/Ethical-Hacking-Projects">Ethical Hacking Projects for Beginners</a>     | Hands-on projects for ethical hacking and penetration testing.  |
