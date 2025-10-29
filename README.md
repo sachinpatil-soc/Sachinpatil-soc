@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Sachin Patil – Aspiring SOC Analyst | Cybersecurity Enthusiast
+## 👋 SOC Analyst & Security Specialist | CompTIA Security+, CEH, SOC Analyst
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinpatil-soc) !-->
 
-### 🔒 Highly motivated and security-focused aspiring SOC Analyst with hands-on experience in **threat detection, log analysis**, and **incident response**.
+### 🔒 Highly motivated and security-focused aspiring SOC Analyst with hands-on experience in **threat detection, log analysis**, and **incident response**. ** Along with Comptia Security+ certification.
 
 ### 💻 My background in **full-stack web development** and **business operations** allows me to bring a well-rounded, technical-meets-practical mindset to cybersecurity challenges.
 
