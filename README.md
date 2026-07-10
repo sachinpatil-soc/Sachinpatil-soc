@@ -38,7 +38,7 @@
 
 | Project Name                                                                                                                        | Description                                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|<a href="https://github.com">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier 1 SOC investigation by monitoring, triaging, investigating, and documenting real-world RDP brute-force attacks using Microsoft Sentinel.|
+|<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier 1 SOC investigation by monitoring, triaging, investigating, and documenting real-world RDP brute-force attacks using Microsoft Sentinel.|
 |<a href="https://github.com/sachinpatil-soc/Splunk-for-Log-Analysis">Splunk for Log Analysis</a>                    | Investigated Windows event logs using Splunk SPL to identify suspicious authentication activity and demonstrate SOC investigation workflows.                 |
 |<a href="https://github.com/sachinpatil-soc/Wireshark-Analyzing-Network-Concepts">Wireshark analyzing network concepts</a>       | Captured and analyzed network traffic to identify common protocols, connection behavior, and potential indicators of suspicious activity. |
 |<a href="https://github.com/sachinpatil-soc/Windows-Security-Logs-and-Linux-Auth-Log">Windows Security Logs and Linux Auth Log</a>   |  Investigated Windows Security Events and Linux authentication logs to identify failed logins, privilege escalation attempts, and security-relevant events.|
