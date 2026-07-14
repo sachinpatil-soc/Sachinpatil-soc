@@ -10,9 +10,10 @@
 
 ### 🔒 I am an aspiring Security Operations Center (SOC) Analyst with hands-on experience investigating security events using Microsoft Sentinel, Kusto Query Language (KQL), Splunk, and Wireshark.My focus is on security monitoring, alert triage, incident investigation, threat hunting, and documenting investigations through practical, real-world SOC projects. I enjoy understanding how attackers behave and using security data to identify, investigate, and respond to potential threats.
 
-### 💻 Before transitioning into cybersecurity, I developed experience solving technical and business problems through software development and business operations. Today, I apply that same analytical mindset to security monitoring, investigation, and incident response.
+### 💻 Through hands-on labs and practical security projects, I developed a strong foundation in cybersecurity and now apply that mindset to SOC operations, log analysis, and incident response.
 
-### 🎯 I continuously improve my skills through home labs, SOC simulations, and Microsoft security technologies while building projects that reflect real Tier 1 SOC responsibilities.
+### 🎯 I continuously improve my skills through home labs, SOC simulations, and hands-on projects using Microsoft Sentinel, Splunk, Kusto Query Language (KQL), and other security technologies while building practical investigations that reflect real Tier 1 SOC responsibilities.
+
 ---
 
 ### 🎯 Current Focus
