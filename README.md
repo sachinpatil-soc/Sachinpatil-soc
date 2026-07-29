@@ -39,8 +39,7 @@
 
 | Project Name                                                                                                                        | Description                                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|<a href="https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab">Enterprise-Microsoft-Defender-XDR-Lab
-</a> | This project demonstrates the design, deployment, and operation of a simulated enterprise Security Operations Center (SOC) using Microsoft Defender XDR.| 
+|<a href="https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab">Enterprise-Microsoft-Defender-XDR-Lab</a> | This project demonstrates the design, deployment, and operation of a simulated enterprise Security Operations Center (SOC) using Microsoft Defender XDR.           | 
 |<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier 1 SOC investigation by monitoring, triaging, investigating, and documenting real-world RDP brute-force attacks using Microsoft Sentinel.|
 |<a href="https://github.com/sachinpatil-soc/Splunk-for-Log-Analysis">Splunk for Log Analysis</a>                    | Investigated Windows event logs using Splunk SPL to identify suspicious authentication activity and demonstrate SOC investigation workflows.                 |
 |<a href="https://github.com/sachinpatil-soc/Wireshark-Analyzing-Network-Concepts">Wireshark analyzing network concepts</a>       | Captured and analyzed network traffic to identify common protocols, connection behavior, and potential indicators of suspicious activity. |
