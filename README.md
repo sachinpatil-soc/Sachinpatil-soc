@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sachin
 
-### SOC Analyst | Microsoft Defender XDR | Microsoft Sentinel | KQL | Incident Investigation | CompTIA Security+
+### Tier-1 SOC Analyst | Microsoft Defender XDR | Microsoft Sentinel | KQL | Incident Investigation | CompTIA Security+
 
 
 ## 📜 Certifications
@@ -20,10 +20,6 @@ I'm a SOC-focused cybersecurity professional building hands-on experience throug
 My work focuses on **alert triage, phishing investigation, endpoint telemetry, PowerShell analysis, threat hunting, incident correlation, and evidence-based Tier-1 escalation**. I document my investigations on GitHub to demonstrate not only the tools I use, but also the reasoning behind my analyst decisions.
 
 I am currently strengthening my Microsoft security operations knowledge through **SC-200: Microsoft Security Operations Analyst** learning and hands-on practice.
-
-### 💻 Through hands-on labs and practical security projects, I developed a strong foundation in cybersecurity and now apply that mindset to SOC operations, log analysis, and incident response.
-
-### 🎯 I continuously improve my skills through home labs, SOC simulations, and hands-on projects using Microsoft Sentinel, Splunk, Kusto Query Language (KQL), and other security technologies while building practical investigations that reflect real Tier 1 SOC responsibilities.
 
 ---
 
@@ -47,7 +43,7 @@ I am currently strengthening my Microsoft security operations knowledge through 
 | Project Name                                                                                                                        | Description                                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |<a href="https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab">Enterprise-Microsoft-Defender-XDR-Lab</a> | Built a simulated enterprise SOC environment using Microsoft Defender XDR and investigated phishing, suspicious PowerShell, endpoint discovery, correlated incidents, KQL telemetry, and Tier-1 escalation workflows.           | 
-|<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier 1 SOC investigation by monitoring, triaging, investigating, and documenting real-world RDP brute-force attacks using Microsoft Sentinel.|
+|<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier 1 SOC investigation by monitoring, triaging, investigating, and documenting RDP brute-force activity  using Microsoft Sentinel.|
 |<a href="https://github.com/sachinpatil-soc/Splunk-for-Log-Analysis">Splunk for Log Analysis</a>                    | Investigated Windows event logs using Splunk SPL to identify suspicious authentication activity and demonstrate SOC investigation workflows.                 |
 |<a href="https://github.com/sachinpatil-soc/Wireshark-Analyzing-Network-Concepts">Wireshark analyzing network concepts</a>       | Captured and analyzed network traffic to identify common protocols, connection behavior, and potential indicators of suspicious activity. |
 |<a href="https://github.com/sachinpatil-soc/Windows-Security-Logs-and-Linux-Auth-Log">Windows Security Logs and Linux Auth Log</a>   |  Investigated Windows Security Events and Linux authentication logs to identify failed logins, privilege escalation attempts, and security-relevant events.|
@@ -67,14 +63,13 @@ I am currently strengthening my Microsoft security operations knowledge through 
 * Microsoft Sentinel
 * Splunk
 
-### 📊 SIEM
-* [![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/azure/sentinel/)
-* [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
-
  ---
- 
-### ☁️ Cloud 
-* ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-blue)
+
+### ☁️ Cloud
+
+* Microsoft Azure
+* Microsoft 365
+* Microsoft Entra ID
   
 ---
 
@@ -88,34 +83,39 @@ I am currently strengthening my Microsoft security operations knowledge through 
 * Alert & Incident Correlation
 * MITRE ATT&CK Mapping
 
-### 📊 Log Analysis 
-* ![Static Badge](https://img.shields.io/badge/KQL-%230078D4)
-* ![Static Badge](https://img.shields.io/badge/Windows%20Event%20Logs-%2300ADEF)
-* ![Static Badge](https://img.shields.io/badge/Linux%20Authentication%20Logs-%23FCC737)
-
----
-### 🌐 Networking 
-* [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 ---
 
-### 🔒 Security
-* [![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-8B0000?style=for-the-badge&logo=virustotal&logoColor=white)](https://attack.mitre.org/)
-* [![Incident Response](https://img.shields.io/badge/Incident%20Response-E53935?style=for-the-badge&logo=security&logoColor=white)](https://www.cisa.gov/incident-response)
-* ![Static Badge](https://img.shields.io/badge/MITRE%20ATT%26CK-%23E55C1B)
+### 🔒 Security Operations
+
+* Alert Triage
+* Threat Hunting
+* Incident Investigation
+* Incident Response
+* Phishing Analysis
+* MITRE ATT&CK
+* Evidence-Based Escalation
 
 ---
+
+### 🌐 Networking
+
+* Wireshark
+
 ### 💻 Operating Systems
-* ![Static Badge](https://img.shields.io/badge/Windows-%230078D4)
-* ![Static Badge](https://img.shields.io/badge/Linux-%23E95420)
----
-### 📜 Scripting
-* ![Static Badge](https://img.shields.io/badge/PowerShell-%23012456)
----
-###  🛠️ Ethical Hacking Tools
-* [![Nmap](https://img.shields.io/badge/Nmap-0040ff?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
-* [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-* [![Metasploit](https://img.shields.io/badge/Metasploit-0f0f0f?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)  
 
+* Windows
+* Linux
+
+### 📜 Scripting
+
+* PowerShell
+
+### 🛠️ Ethical Hacking Tools
+
+* Nmap
+* Burp Suite
+* Metasploit
+  
 ---
 
 # 📩 Currently Seeking
