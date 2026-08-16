@@ -1,14 +1,25 @@
 # 👋 Hi, I'm Sachin
 
-### Aspiring SOC Analyst | Microsoft Sentinel | Threat Detection | Incident Response | CompTIA Security+
+### SOC Analyst | Microsoft Defender XDR | Microsoft Sentinel | KQL | Incident Investigation | CompTIA Security+
+
 
 ## 📜 Certifications
 * ![Static Badge](https://img.shields.io/badge/%20CompTIA%20Security%2B-%23EE3224)
 * ![Static Badge](https://img.shields.io/badge/%20SOC%20Analyst-%230070C0)
 * ![Static Badge](https://img.shields.io/badge/%20Certified%20Ethical%20Hacker-%23EB2327)
 
+### 📚 Currently Learning
+**Microsoft SC-200 — Security Operations Analyst**
 
-### 🔒 I am an aspiring Security Operations Center (SOC) Analyst with hands-on experience investigating security events using Microsoft Sentinel, Kusto Query Language (KQL), Splunk, and Wireshark.My focus is on security monitoring, alert triage, incident investigation, threat hunting, and documenting investigations through practical, real-world SOC projects. I enjoy understanding how attackers behave and using security data to identify, investigate, and respond to potential threats.
+Focused on Microsoft Defender XDR, Microsoft Sentinel, KQL, threat investigation, incident response, and security operations.
+
+## 🔒 About Me
+
+I'm a SOC-focused cybersecurity professional building hands-on experience through enterprise security labs and documented investigations using **Microsoft Defender XDR, Microsoft Sentinel, KQL, Splunk, and Wireshark**.
+
+My work focuses on **alert triage, phishing investigation, endpoint telemetry, PowerShell analysis, threat hunting, incident correlation, and evidence-based Tier-1 escalation**. I document my investigations on GitHub to demonstrate not only the tools I use, but also the reasoning behind my analyst decisions.
+
+I am currently strengthening my Microsoft security operations knowledge through **SC-200: Microsoft Security Operations Analyst** learning and hands-on practice.
 
 ### 💻 Through hands-on labs and practical security projects, I developed a strong foundation in cybersecurity and now apply that mindset to SOC operations, log analysis, and incident response.
 
@@ -16,21 +27,17 @@
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
-✔ 🛡️ Microsoft Sentinel
-
-✔ 🔍 Kusto Query Language (KQL)
-
-✔ 👁️ Security Monitoring
-
-✔ 🕵️ Threat Hunting
-
-✔ 🔬 Incident Investigation
-
-✔ 🚒 Incident Response
-
-✔ 📑 SOC Documentation
+✔ 🛡️ Microsoft Defender XDR  
+✔ 📊 Microsoft Sentinel  
+✔ 🔍 KQL / Advanced Hunting  
+✔ 🚦 Alert Triage  
+✔ 🕵️ Threat Hunting  
+✔ 🔬 Incident Investigation  
+✔ 🚨 Tier-1 Escalation  
+✔ 📑 SOC Documentation  
+✔ 🎓 SC-200 Security Operations Analyst Learning
 
 ---
 
@@ -39,7 +46,7 @@
 
 | Project Name                                                                                                                        | Description                                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|<a href="https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab">Enterprise-Microsoft-Defender-XDR-Lab</a> | This project demonstrates the design, deployment, and operation of a simulated enterprise Security Operations Center (SOC) using Microsoft Defender XDR.           | 
+|<a href="https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab">Enterprise-Microsoft-Defender-XDR-Lab</a> | Built a simulated enterprise SOC environment using Microsoft Defender XDR and investigated phishing, suspicious PowerShell, endpoint discovery, correlated incidents, KQL telemetry, and Tier-1 escalation workflows.           | 
 |<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier 1 SOC investigation by monitoring, triaging, investigating, and documenting real-world RDP brute-force attacks using Microsoft Sentinel.|
 |<a href="https://github.com/sachinpatil-soc/Splunk-for-Log-Analysis">Splunk for Log Analysis</a>                    | Investigated Windows event logs using Splunk SPL to identify suspicious authentication activity and demonstrate SOC investigation workflows.                 |
 |<a href="https://github.com/sachinpatil-soc/Wireshark-Analyzing-Network-Concepts">Wireshark analyzing network concepts</a>       | Captured and analyzed network traffic to identify common protocols, connection behavior, and potential indicators of suspicious activity. |
@@ -52,6 +59,14 @@
 
 ### 🛠️ Skills & Tools
 
+### 🛡️ SIEM / XDR
+
+* Microsoft Defender XDR
+* Microsoft Defender for Endpoint
+* Microsoft Defender for Office 365
+* Microsoft Sentinel
+* Splunk
+
 ### 📊 SIEM
 * [![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/azure/sentinel/)
 * [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
@@ -63,6 +78,15 @@
   
 ---
 
+### 🔍 Detection & Investigation
+
+* KQL / Advanced Hunting
+* Windows Event Logs
+* Linux Authentication Logs
+* Process Tree Analysis
+* Endpoint Timeline Analysis
+* Alert & Incident Correlation
+* MITRE ATT&CK Mapping
 
 ### 📊 Log Analysis 
 * ![Static Badge](https://img.shields.io/badge/KQL-%230078D4)
@@ -80,7 +104,7 @@
 * ![Static Badge](https://img.shields.io/badge/MITRE%20ATT%26CK-%23E55C1B)
 
 ---
-### 💻 Oprating Systems
+### 💻 Operating Systems
 * ![Static Badge](https://img.shields.io/badge/Windows-%230078D4)
 * ![Static Badge](https://img.shields.io/badge/Linux-%23E95420)
 ---
@@ -96,14 +120,17 @@
 
 # 📩 Currently Seeking
 
-I'm currently seeking opportunities as a:
+I'm currently seeking opportunities in Germany / EU as a:
 
-- SOC Analyst (Tier 1)
-- Cybersecurity Analyst
-- Security Operations Intern
-- Graduate SOC Analyst
+- 🛡️ SOC Analyst — Tier 1
+- 🔍 Junior SOC Analyst
+- 🚨 Security Operations Analyst
+- 🔐 Junior Cybersecurity Analyst
 
-### -> ⚡ Always open to connecting with cybersecurity professionals and learning from the security community.  ⚡ ->
+I'm particularly interested in roles involving **Microsoft Defender XDR, Microsoft Sentinel, SIEM monitoring, alert triage, threat detection, and incident investigation**.
+
+### ⚡ Open to connecting with SOC teams, cybersecurity professionals, recruiters, and hiring managers.
+
 
 
 
