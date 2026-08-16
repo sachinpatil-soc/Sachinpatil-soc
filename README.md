@@ -126,9 +126,9 @@ I'm currently seeking opportunities in Germany / EU as a:
 - 🚨 Security Operations Analyst
 - 🔐 Junior Cybersecurity Analyst
 
-## 🇩🇪 **Work Authorization:** Authorized to work in Germany and across the EU without visa sponsorship.
+## 🇩🇪 / 🇪🇺 **Work Authorization:** Authorized to work in Germany and across the EU without visa sponsorship.
 
-I'm particularly interested in roles involving **Microsoft Defender XDR, Microsoft Sentinel, SIEM monitoring, alert triage, threat detection, and incident investigation**.
+### I'm particularly interested in roles involving **Microsoft Defender XDR, Microsoft Sentinel, SIEM monitoring, alert triage, threat detection, and incident investigation**.
 
 ### ⚡ Open to connecting with SOC teams, cybersecurity professionals, recruiters, and hiring managers.
 
