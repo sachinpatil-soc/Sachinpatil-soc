@@ -43,7 +43,7 @@ I am currently strengthening my Microsoft security operations knowledge through 
 | Project Name                                                                                                                        | Description                                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |<a href="https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab">Enterprise-Microsoft-Defender-XDR-Lab</a> | Built a simulated enterprise SOC environment using Microsoft Defender XDR and investigated phishing, suspicious PowerShell, endpoint discovery, correlated incidents, KQL telemetry, and Tier-1 escalation workflows.           | 
-|<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier 1 SOC investigation by monitoring, triaging, investigating, and documenting RDP brute-force activity  using Microsoft Sentinel.|
+|<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier-1 SOC investigation by monitoring, triaging, investigating, and documenting RDP brute-force activity  using Microsoft Sentinel.|
 |<a href="https://github.com/sachinpatil-soc/Splunk-for-Log-Analysis">Splunk for Log Analysis</a>                    | Investigated Windows event logs using Splunk SPL to identify suspicious authentication activity and demonstrate SOC investigation workflows.                 |
 |<a href="https://github.com/sachinpatil-soc/Wireshark-Analyzing-Network-Concepts">Wireshark analyzing network concepts</a>       | Captured and analyzed network traffic to identify common protocols, connection behavior, and potential indicators of suspicious activity. |
 |<a href="https://github.com/sachinpatil-soc/Windows-Security-Logs-and-Linux-Auth-Log">Windows Security Logs and Linux Auth Log</a>   |  Investigated Windows Security Events and Linux authentication logs to identify failed logins, privilege escalation attempts, and security-relevant events.|
@@ -81,7 +81,7 @@ I am currently strengthening my Microsoft security operations knowledge through 
 * Process Tree Analysis
 * Endpoint Timeline Analysis
 * Alert & Incident Correlation
-* MITRE ATT&CK Mapping
+* MITRE ATT&CK
 
 ---
 
@@ -92,7 +92,6 @@ I am currently strengthening my Microsoft security operations knowledge through 
 * Incident Investigation
 * Incident Response
 * Phishing Analysis
-* MITRE ATT&CK
 * Evidence-Based Escalation
 
 ---
@@ -127,9 +126,12 @@ I'm currently seeking opportunities in Germany / EU as a:
 - 🚨 Security Operations Analyst
 - 🔐 Junior Cybersecurity Analyst
 
+## 🇩🇪 **Work Authorization:** Authorized to work in Germany and across the EU without visa sponsorship.
+
 I'm particularly interested in roles involving **Microsoft Defender XDR, Microsoft Sentinel, SIEM monitoring, alert triage, threat detection, and incident investigation**.
 
 ### ⚡ Open to connecting with SOC teams, cybersecurity professionals, recruiters, and hiring managers.
+
 
 
 
