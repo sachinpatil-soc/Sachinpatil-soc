@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sachin
 
 
-### Tier-1 SOC Analyst | Microsoft Defender XDR | Microsoft Sentinel | KQL | Incident Investigation | SC-200 | CompTIA Security+
+### SOC Analyst | Microsoft Defender XDR & Sentinel | Purview DLP | KQL | Incident Investigation | SC-200 | CompTIA Security+
 
   ---
 ## 📜 Certifications
@@ -30,14 +30,14 @@ I am **Microsoft Certified: Security Operations Analyst Associate (SC-200)** and
 
 ## 🎯 Current Focus
 
-✔ 🛡️ Microsoft Defender XDR
-✔ 📊 Microsoft Sentinel
-✔ 🎯 Microsoft Purview & DLP
-✔ 🔍 KQL / Advanced Hunting
-✔ 🚦 Alert Triage & Incident Investigation
-✔ 🕵️ Threat Hunting
-✔ 🚨 Tier-1 Escalation & SOC Documentation
----
+- ✔ 🛡️ Microsoft Defender XDR
+- ✔ 📊 Microsoft Sentinel
+- ✔ 🎯 Microsoft Purview & DLP
+- ✔ 🔍 KQL / Advanced Hunting
+- ✔ 🚦 Alert Triage & Incident Investigation
+- ✔ 🕵️ Threat Hunting
+- ✔ 🚨 Tier-1 Escalation & SOC Documentation.
+
 
 ### 🚀 SOC Investigation & Engineering Portfolio
 
@@ -121,10 +121,10 @@ I am **Microsoft Certified: Security Operations Analyst Associate (SC-200)** and
 
 I'm currently seeking opportunities in Germany, the EU, and Switzerland as a:
 
-- 🛡️ SOC Analyst — Tier 1
-- 🔍 Junior SOC Analyst
+- 🛡️ SOC Analyst (Tier 1 / Junior)
 - 🚨 Security Operations Analyst
-- 🔐 Junior Cybersecurity Analyst
+- 🔐 Cyber Security Analyst - Data Leakage Prevention
+- 💼 Junior Cyber Security Consultant
   
 
 ### 🇩🇪 🇪🇺 🇨🇭 Work Eligibility
