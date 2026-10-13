@@ -41,23 +41,18 @@ I am **Microsoft Certified: Security Operations Analyst Associate (SC-200)** and
 
 ---
 
-# 🚀 SOC Investigation Portfolio
+### 🚀 SOC Investigation & Engineering Portfolio
 
-
-| Project Name                                                                                                                        | Description                                                              |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|<a href="https://github.com/sachinpatil-soc/BaFin-Aligned-DLP-Exfiltration-Defense">BaFin-Aligned Data Leakage Prevention (DLP): Multi-Vector Egress Monitoring & Rule Tuning </a> | Enterprise Microsoft Purview DLP & Sentinel project modeling BaFin/BAIT compliance, multi-vector egress prevention (Email, USB, Web), and detection rule tuning to reduce false positives.           | 
-|<a href="https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab">Enterprise-Microsoft-Defender-XDR-Lab </a> | Built a simulated enterprise SOC environment using Microsoft Defender XDR and investigated phishing, suspicious PowerShell, endpoint discovery, correlated incidents, KQL telemetry, and Tier-1 escalation workflows.           | 
-|<a href="https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab">Microsoft-Sentinel-SOC-Investigation-Lab </a> |  Simulated a Tier-1 SOC investigation by monitoring, triaging, investigating, and documenting RDP brute-force activity  using Microsoft Sentinel.|
-|<a href="https://github.com/sachinpatil-soc/Splunk-for-Log-Analysis">Splunk SOC Investigation Labs</a>                    | Used Splunk Enterprise and SPL to investigate SSH authentication, DNS, HTTP, and Zeek network connection logs, documenting findings through structured Tier-1 SOC investigation workflows.                 |
-|<a href="https://github.com/sachinpatil-soc/Wireshark-Analyzing-Network-Concepts">Wireshark analyzing network concepts</a>       | Captured and analyzed network traffic to identify common protocols, connection behavior, and potential indicators of suspicious activity. |
-|<a href="https://github.com/sachinpatil-soc/Windows-Security-Logs-and-Linux-Auth-Log">Windows Security Logs and Linux Auth Log</a>   |  Investigated Windows Security Events and Linux authentication logs to identify failed logins, privilege escalation attempts, and security-relevant events.|
-|<a href="https://github.com/sachinpatil-soc/Ethical-Hacking-Projects">Ethical Hacking Projects for Beginners</a>     | Hands-on projects for ethical hacking and penetration testing.  |
-|<a href="https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025">30 Days SOC Challenge</a>                      | This repository documents my progress through a 30-day hands-on challenge, designed to build and showcase essential SOC Analyst skills for job readiness.|
+| Project Name | Key Stack | Operational Scope & Highlights |
+| :--- | :--- | :--- |
+| **[BaFin-Aligned DLP: Multi-Vector Defense](https://github.com/sachinpatil-soc/BaFin-Aligned-DLP-Exfiltration-Defense)** | Purview, Defender for Endpoint, Sentinel | Enterprise Purview DLP modeling BaFin/BAIT compliance; multi-vector egress interception (USB, Exchange, Clipboard) and KQL threat hunting. |
+| **[Enterprise Microsoft Defender XDR Lab](https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab)** | Defender XDR, MDE, MDO, KQL | Simulated corporate environment investigating phishing attacks, malicious PowerShell execution, process tree correlation, and Tier-1 escalation. |
+| **[Microsoft Sentinel SOC Investigation Lab](https://github.com/sachinpatil-soc/Microsoft-Sentinel-SOC-Investigation-Lab)** | Microsoft Sentinel, Log Analytics, KQL | Monitored, investigated, and triaged automated RDP brute-force attack vectors with custom analytic rules and investigation workbooks. |
+| **[Splunk SOC Investigation Labs](https://github.com/sachinpatil-soc/Splunk-SOC-Investigation-Labs)** | Splunk Enterprise, SPL, Zeek | Investigated anomalous SSH authentication attempts, DNS exfiltration, and raw Zeek network logs via structured incident response workflows. |
+| **[Windows Security & Linux Auth Log Analysis](https://github.com/sachinpatil-soc/Windows-Security-Logs-and-Linux-Auth-Log)** | Windows Event Viewer, Linux Syslog | Analyzed authentication artifacts to identify failed logon anomalies, privilege escalation vectors, and lateral movement traces. |
+| **[Network Traffic Analysis with Wireshark](https://github.com/sachinpatil-soc/Wireshark-analyzing-network-concepts)** | Wireshark, TCP/IP | Captured and inspected packet telemetry across standard application protocols to identify anomalies and suspicious connection behaviors. |
 
 ---
-
-
 ### 🛠️ Skills & Tools
 
 ### 🛡️ SIEM / XDR
