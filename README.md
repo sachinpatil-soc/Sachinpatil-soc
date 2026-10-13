@@ -19,9 +19,9 @@
 
 ## 🔒 About Me
 
-I'm a SOC-focused cybersecurity professional with hands-on, enterprise-style project experience using **Microsoft Defender XDR, Microsoft Sentinel, KQL, Splunk, and Wireshark**.
+I'm a SOC-focused cybersecurity professional with hands-on, enterprise-style project experience using **Microsoft Defender XDR, Microsoft Sentinel, Microsoft Purview, KQL, Splunk, and Wireshark**.
 
-My work focuses on **SIEM monitoring, alert triage, phishing and endpoint investigation, PowerShell analysis, Advanced Hunting, incident correlation, threat hunting, and evidence-based Tier-1 escalation**. I document complete investigations on GitHub to demonstrate both my technical skills and the reasoning behind my analyst decisions.
+My work focuses on **SIEM monitoring, Data Loss Prevention (DLP) architecture alert triage, phishing and endpoint investigation, PowerShell analysis, Advanced Hunting, incident correlation, threat hunting, and evidence-based Tier-1 escalation**. I document complete investigations on GitHub to demonstrate both my technical skills and the reasoning behind my analyst decisions.
 
 I am **Microsoft Certified: Security Operations Analyst Associate (SC-200)** and **CompTIA Security+ certified**, with a strong focus on Microsoft security operations and Tier-1 SOC workflows.
 
@@ -30,15 +30,13 @@ I am **Microsoft Certified: Security Operations Analyst Associate (SC-200)** and
 
 ## 🎯 Current Focus
 
-✔ 🛡️ Microsoft Defender XDR  
-✔ 📊 Microsoft Sentinel  
-✔ 🔍 KQL / Advanced Hunting  
-✔ 🚦 Alert Triage  
-✔ 🕵️ Threat Hunting  
-✔ 🔬 Incident Investigation  
-✔ 🚨 Tier-1 Escalation  
-✔ 📑 SOC Documentation  
-
+✔ 🛡️ Microsoft Defender XDR
+✔ 📊 Microsoft Sentinel
+✔ 🎯 Microsoft Purview & DLP
+✔ 🔍 KQL / Advanced Hunting
+✔ 🚦 Alert Triage & Incident Investigation
+✔ 🕵️ Threat Hunting
+✔ 🚨 Tier-1 Escalation & SOC Documentation
 ---
 
 ### 🚀 SOC Investigation & Engineering Portfolio
@@ -60,6 +58,7 @@ I am **Microsoft Certified: Security Operations Analyst Associate (SC-200)** and
 * Microsoft Defender XDR
 * Microsoft Defender for Endpoint
 * Microsoft Defender for Office 365
+* Microsoft Purview (Data Loss Prevention)
 * Microsoft Sentinel
 * Splunk
 
