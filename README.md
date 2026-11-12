@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sachin
 
 
-### SOC Analyst | Microsoft Defender XDR & Sentinel | Purview DLP | KQL | Incident Investigation | SC-200 | CompTIA Security+
+### Cyber Security Analyst (SOC & GRC) | SC-200, CompTIA Security+, CEH | E5 Lab: Defender, Sentinel, KQL & Purview DLP
 
   ---
 ## 📜 Certifications
